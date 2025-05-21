@@ -26,5 +26,6 @@
 /*Seguros*/
 @import "./seguros/seguros.css";
 
+@import "./termos/termos.css";
 /* Footer */
 @import "./global/footer.css";
